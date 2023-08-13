@@ -1,1 +1,1 @@
-# java_workshop
+Hacker Rank Solution of JAVA
