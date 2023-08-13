@@ -1,1 +1,1 @@
-Hacker Rank Solution of JAVA
+Hacker Rank Solutions of JAVA
